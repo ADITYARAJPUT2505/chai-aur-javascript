@@ -1,0 +1,2 @@
+accountcity="kanpur"
+console.log
